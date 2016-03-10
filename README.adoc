@@ -19,3 +19,4 @@ include::modular/README.adoc[leveloffset=+1]
 include::testing.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+include::https://spring.io/guides/tutorials/spring-security-and-angular-js/#add-a-home-page
